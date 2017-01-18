@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.python.pydev.debug.regularLaunchConfigurationType">
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_OTHER_WORKING_DIRECTORY" value=""/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="--log-level=INFO &#10;&#9;-m /home/fran/Documents/clusters3D/mutations/mutations.txt &#10;&#9;-a data/fully_described_pdb_info.txt &#10;&#9;-t EVERY &#10;&#9;-n 100000&#10;&#9;-r 10.0 &#10;&#9;-o /home/fran/Documents/clusters3D/output//output_merged.txt &#10;&#9;-e /home/fran/Documents/clusters3D/output//error/error_pdb_data/fully_described_pdb_info.txt&#10;&#9;--log=stdout"/>
+<stringAttribute key="org.python.pydev.debug.ATTR_INTERPRETER" value="__default"/>
+</launchConfiguration>

@@ -1,0 +1,7 @@
+[PDB]
+modbase_dir=/projects_bg/bg/shared/datasets/PDB/my_pdb_data_dir/
+pdb_dir=/projects_bg/bg/shared/datasets/PDB/my_pdb_data_dir/
+refseq_homology: %(modbase_dir)s/ModBase_H_sapiens_2013_refseq/models/model/
+ensembl_homology: %(modbase_dir)s/ModBase_H_sapiens_2013_GRCh37.70.pep.all/models/model/
+biological_assembly: %(pdb_dir)s//biounit/coordinates/all/
+non_biological_assembly: %(pdb_dir)s//structures/all/pdb/

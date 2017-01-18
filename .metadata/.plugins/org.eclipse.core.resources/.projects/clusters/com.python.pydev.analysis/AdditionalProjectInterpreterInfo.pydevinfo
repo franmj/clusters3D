@@ -1,0 +1,86 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/fran/Documents/clusters3D/.metadata/.plugins/org.eclipse.core.resources/.projects/clusters/com.python.pydev.analysis/v2_indexcache
+src.pdb_structure|1484320889416027000|/home/fran/Documents/clusters3D/clusters/src/pdb_structure.py
+scripts.chain_description|1484060935000000000|/home/fran/Documents/clusters3D/clusters/scripts/chain_description.py
+scripts.get_hotspot_residues|1484060935000000000|/home/fran/Documents/clusters3D/clusters/scripts/get_hotspot_residues.py
+hotspot|1484320889496030000|/home/fran/Documents/clusters3D/clusters/hotspot.py
+scripts.__init__|1484060935000000000|/home/fran/Documents/clusters3D/clusters/scripts/__init__.py
+src.graph|1484060935000000000|/home/fran/Documents/clusters3D/clusters/src/graph.py
+find_hotspot_regions_struct|1484320889440028000|/home/fran/Documents/clusters3D/clusters/find_hotspot_regions_struct.py
+src.multiple_testing_correction|1484320889512030000|/home/fran/Documents/clusters3D/clusters/src/multiple_testing_correction.py
+src.statistics|1484320889516030000|/home/fran/Documents/clusters3D/clusters/src/statistics.py
+find_hotspot_regions_gene|1484320889452028000|/home/fran/Documents/clusters3D/clusters/find_hotspot_regions_gene.py
+scripts.add_path_info|1484324706041313000|/home/fran/Documents/clusters3D/clusters/scripts/add_path_info.py
+src.density|1484060935000000000|/home/fran/Documents/clusters3D/clusters/src/density.py
+src.mutations|1484320889352024000|/home/fran/Documents/clusters3D/clusters/src/mutations.py
+src.utils|1484320889504030000|/home/fran/Documents/clusters3D/clusters/src/utils.py
+src.simulation|1484320889380025000|/home/fran/Documents/clusters3D/clusters/src/simulation.py
+scripts.calc_count_threshold|1484060935000000000|/home/fran/Documents/clusters3D/clusters/scripts/calc_count_threshold.py
+src.__init__|1484320871487386000|/home/fran/Documents/clusters3D/clusters/src/__init__.py
+scripts.divide_pdb_info|1484060935000000000|/home/fran/Documents/clusters3D/clusters/scripts/divide_pdb_info.py
+__init__|1484060935000000000|/home/fran/Documents/clusters3D/clusters/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+4=src.pdb_structure
+14=scripts.get_hotspot_residues
+15=scripts.chain_description
+12=hotspot
+1=src.graph
+13=find_hotspot_regions_struct
+7=src.multiple_testing_correction
+2=src.statistics
+10=find_hotspot_regions_gene
+3=scripts.add_path_info
+5=src.density
+9=src.mutations
+8=src.utils
+6=src.simulation
+16=scripts.calc_count_threshold
+11=scripts.divide_pdb_info
+-- END DICTIONARY
+-- START TREE 1
+38
+bfs|1|bfs!10@
+bh_|1|bh_fdr!18@
+bin|1|binomial_test!18@
+bio|1|biounit_dir!27@
+cal|1|calc_center_of_geometry!34@
+cen|1|center_of_geometry!42@
+com|2|compute_significant_count!50@compute_pvals!50@
+con|2|config!27@connected_components!10@
+cum|2|cumulative_density!42@cummin!18@
+den|2|density!42@density2!42@
+dis|1|distance!42@
+emp|1|EMPTY_PVALS!59@
+ens|1|ensembl_dir!27@
+fil|1|file_dir!27@
+fin|5|find_neighbors_for!34@find_neighbors_1D!34@find_eq_letters!34@find_neighbors_for_1D!34@find_neighbors!34@
+fix|1|fix_chain_letter!34@
+fre|1|frequency_test!18@
+gen|1|generate_null_dist!50@
+get|5|get_structure_info!34@get_buried_residues!34@get_group_pvals!58@get_filtered_atom_list!34@get_interface_residues!34@
+hea|2|header!67@Header!67@
+log|8|logger!27@logger!75@logger!83@logger!91@logger!19@logger!99@logger!67@logger!107@
+mai|9|main!26@main!114@main!90@main!122@main!98@main!82@main!106@main!58@main!130@
+mis|1|MISSING_COUNT!59@
+mod|2|mod_base!67@ModBase!67@
+mut|1|mutation_density!74@
+num|2|NUM_CHAIN_DIFF!51@NUM_MODEL_DIFF!51@
+opt|9|opts!99@opts!27@opts!107@opts!123@opts!59@opts!91@opts!115@opts!83@opts!131@
+par|9|parse_arguments!114@parse_arguments!106@parse_arguments!82@parse_arguments!26@parse_arguments!90@parse_arguments!122@parse_arguments!58@parse_arguments!98@parse_arguments!130@
+pdb|1|pdb_dir!27@
+rea|11|read_structure!66@read_delim!106@read_delim!82@read_residue_info!106@read_pdb_info!66@read_mutations!66@read_mupit_file!106@read_thresholds!106@read_mupit_file!58@read_file!90@read_mupit_file!82@
+ref|1|refseq_dir!27@
+ret|2|retrieve_components!106@retrieve_components!82@
+spl|1|split_file!90@
+sta|1|start_logging!66@
+str|2|STRUCT_CHAIN_DIFF!51@STRUCT_MODEL_DIFF!51@
+sum|1|summarize_residues!74@
+upd|2|update_graph!106@update_graph!82@
+val|1|valid_seqres!67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
